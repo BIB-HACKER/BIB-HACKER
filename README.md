@@ -13,7 +13,7 @@
 
 # 💫About Me :
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif">
+<img align="right" alt="Coding" width="355" src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif">
 
 ```python
 class Bibhakar:
@@ -25,7 +25,7 @@ class Bibhakar:
         print('contact="bibhakar660@gmail.com 📫"')
         print('pronouns="he | his"')
         print('Funfact="I''m friendly 😄"')
-    def technology(self):
+    def Technology(self):
         print('language="C,HTML,CSS,js,Python & MYSQL Programming" ')
         print('tech="Mobile & PC Technology"')
         print('editor="VS code"')
