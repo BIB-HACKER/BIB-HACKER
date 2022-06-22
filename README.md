@@ -12,15 +12,15 @@
 
 
 # 💫About Me :
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif">
+<img align="right" alt="Coding" width="305" src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif">
 
 ```python
 class Bibhakar:
     print("hii")
-    def Programmer(self):
+    def programmer(self):
         self.name="Bibhakr paul ⚡"
         self.status="Students"
-        self.contact="bibhakar660@gmail.com"
+        self.contact="bibhakar660@gmail.com 📫"
         self.pronouns="he | his"
         self.funfact="I'm friendly 😄"
     def technology(self):
