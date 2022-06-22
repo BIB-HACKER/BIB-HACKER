@@ -13,7 +13,7 @@
 
 # 💫About Me :
 
-<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif">
+<img align="right" alt="Coding" width="365" src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif">
 
 ```python
 class Bibhakar:
