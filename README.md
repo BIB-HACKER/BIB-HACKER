@@ -12,17 +12,27 @@
 
 
 # 💫About Me :
-<img align="right" alt="Coding" width="230" src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif">
+<img align="right" alt="Coding" width="352" src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif">
 
-- 🌱 I’m currently study on **Machine learning**
+```python
+class Bibhakar:
+    print("hii")
+    def Programmer(self):
+        self.name="Bibhakr paul ⚡"
+        self.status="Students"
+        self.contact="bibhakar660@gmail.com"
+        self.pronouns="he | his"
+        self.funfact="I'm friendly 😄"
+    def technology(self):
+        self.language="C,HTML,CSS,js,Python & MYSQL Programming" 
+        self.tech="Mobile & PC Technology"
+        self.editor="VS code"
+        self.website="Hacker rank,Tryhackme,LeetCode,W3 school,InterviewBit"
+        self.learning="Kali Linux,Machine learning"
 
-- 👯 I’m looking to collaborate on **Self Learning**
+Coder=Bibhakar()
 
-- 💬 Ask me about **C, Python & SQL Programming, Mobile & PC Technology**
-
-- 📫 How to reach me **bibhakar660@gmail.com**
-
-- ⚡ Fun fact **I'm friendly 😄**
+```
 
 ## 🌐Socials
 <p align="left">
