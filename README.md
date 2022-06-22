@@ -13,26 +13,28 @@
 
 # 💫About Me :
 
-<img align="right" alt="Coding" width="352" src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif">
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif">
 
 ```python
 class Bibhakar:
     def __init__(self):
         print("hii")
-    def programmer(self):
-        self.Name="Bibhakr paul ⚡"
-        self.Status="Students"
-        self.Contact="bibhakar660@gmail.com 📫"
-        self.Pronouns="he | his"
-        self.Funfact="I'm friendly 😄"
+    def Programmer(self):
+        print('name="Bibhakr paul ⚡"')
+        print('status="Students"')
+        print('contact="bibhakar660@gmail.com 📫"')
+        print('pronouns="he | his"')
+        print('Funfact="I''m friendly 😄"')
     def technology(self):
-        self.Language="C,HTML,CSS,js,Python & MYSQL Programming" 
-        self.Tech="Mobile & PC Technology"
-        self.Editor="VS code"
-        self.Website="Hacker rank,Tryhackme,LeetCode,W3 school,InterviewBit"
-        self.Learning="Kali Linux,Machine learning"
+        print('language="C,HTML,CSS,js,Python & MYSQL Programming" ')
+        print('tech="Mobile & PC Technology"')
+        print('editor="VS code"')
+        print('website="Hacker rank,Tryhackme,LeetCode,W3 school,InterviewBit"')
+        print('learning="Kali Linux,Machine learning"')
 
 Coder=Bibhakar()
+Coder.Programmer()
+Coder.technology()
 
 ```
 
