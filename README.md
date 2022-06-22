@@ -2,6 +2,7 @@
 <h1 align="center">Hello World 👋 I'm Bibhakar paul</h1>
 <h3 align="center">Electronics Engineer | Coder | Learner | Traveler</h3>
 <img align="right" alt="Coding" width="125" src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif">
+<img align="right" alt="Coding" width="125" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 <!-- <img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/duckly-blog/2021/03/gitduck-vs-code-extensions-animation-opt.gif"> -->
 <!-- <img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif"> -->
 
