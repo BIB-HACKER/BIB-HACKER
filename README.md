@@ -1,7 +1,6 @@
 ![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 <h1 align="center">Hello World 👋 I'm Bibhakar paul</h1>
 <h3 align="center">Electronics Engineer | Coder | Learner | Traveler</h3>
-<img align="right" alt="Coding" width="150" src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif">
 <!-- <img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/duckly-blog/2021/03/gitduck-vs-code-extensions-animation-opt.gif"> -->
 <!-- <img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif"> -->
 
@@ -14,21 +13,24 @@
 
 # 💫About Me :
 
+<img align="right" alt="Coding" width="352" src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif">
+
 ```python
 class Bibhakar:
-    print("hii")
+    def __init__(self):
+        print("hii")
     def programmer(self):
-        self.name="Bibhakr paul ⚡"
-        self.status="Students"
-        self.contact="bibhakar660@gmail.com 📫"
-        self.pronouns="he | his"
-        self.funfact="I'm friendly 😄"
+        self.Name="Bibhakr paul ⚡"
+        self.Status="Students"
+        self.Contact="bibhakar660@gmail.com 📫"
+        self.Pronouns="he | his"
+        self.Funfact="I'm friendly 😄"
     def technology(self):
-        self.language="C,HTML,CSS,js,Python & MYSQL Programming" 
-        self.tech="Mobile & PC Technology"
-        self.editor="VS code"
-        self.website="Hacker rank,Tryhackme,LeetCode,W3 school,InterviewBit"
-        self.learning="Kali Linux,Machine learning"
+        self.Language="C,HTML,CSS,js,Python & MYSQL Programming" 
+        self.Tech="Mobile & PC Technology"
+        self.Editor="VS code"
+        self.Website="Hacker rank,Tryhackme,LeetCode,W3 school,InterviewBit"
+        self.Learning="Kali Linux,Machine learning"
 
 Coder=Bibhakar()
 
