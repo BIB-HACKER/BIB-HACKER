@@ -12,8 +12,7 @@
 
 
 # 💫About Me :
-
-<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif">
+<img align="right" alt="Coding" width="230" src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif">
 
 - 🌱 I’m currently study on **Machine learning**
 
