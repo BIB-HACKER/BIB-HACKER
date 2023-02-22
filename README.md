@@ -59,7 +59,7 @@ Coder.Technology()
 
 # 📊GitHub Stats
 <p>&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=BIB-HACKER&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="BIB-HACKER" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=BIB-HACKER&show_icons=true&locale=en&theme=tokyonight" alt="BIB-HACKER" /></p>
+<p>&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api?username=BIB-HACKER&show_icons=true&locale=en&theme=tokyonight" alt="BIB-HACKER" /></p>
 <p>&nbsp;<img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=BIB-HACKER&&theme=tokyonight" alt="BIB-HACKER" /></p>
 
 
