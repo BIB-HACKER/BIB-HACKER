@@ -58,9 +58,9 @@ Coder.Technology()
 ![](https://github-profile-trophy.vercel.app/?username=BIB-HACKER&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 # 📊GitHub Stats
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=BIB-HACKER&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="BIB-HACKER" /></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=BIB-HACKER&show_icons=true&locale=en&theme=tokyonight" alt="BIB-HACKER" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BIB-HACKER&&theme=tokyonight" alt="BIB-HACKER" /></p>
+<p>&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=BIB-HACKER&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="BIB-HACKER" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=BIB-HACKER&show_icons=true&locale=en&theme=tokyonight" alt="BIB-HACKER" /></p>
+<p>&nbsp;<img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=BIB-HACKER&&theme=tokyonight" alt="BIB-HACKER" /></p>
 
 
 <!-- ### ✍️Random Dev Quote
