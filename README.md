@@ -9,7 +9,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bibhakarpaul&label=Profile%20views&color=0e75b6&style=flat" alt="bibhakarpaul" /> </p>
-<p align="left"> <a href="www.linkedin.com/in/bibhakar-paul-2595a721b/" target="blank"><img src="https://img.shields.io/twitter/follow/Bibhakar Paul?logo=linkedin&style=for-the-badge" alt="Bibhakar paul" /></a> </p>
+<p align="left"> <a href="www.linkedin.com/in/bibhakar-paul-2595a721b/" target="blank"><img src="https://img.shields.io/twitter/follow/Bibhakar Paul?logo=linkedin&style=for-the-badge" alt="www.linkedin.com/in/bibhakar-paul-2595a721b/" /></a> </p>
 
 
 # 💫About Me :
