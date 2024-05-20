@@ -95,15 +95,7 @@ Coder.Technology()
 <br>
 
 # 📊GitHub Stats
-<p>&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=BIB-HACKER&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="BIB-HACKER" /><img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/achievements.svg"> <tr>
-    <th><a href="source/plugins/starlists/README.md"></a></th>
-    
-  <tr>
-        <td  align="center">
-        <details open><summary>Languages from star lists</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.starlists.languages.svg" alt=""></img></details>
-        <img width="900" height="1" alt="">
-      </td>
-  </tr></p> 
+<p>&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=BIB-HACKER&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="BIB-HACKER" /><img align="right" width="300" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/achievements.svg"> </p> 
 <p>&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api?username=BIB-HACKER&show_icons=true&locale=en&theme=tokyonight" alt="BIB-HACKER" /></p>
 <p>&nbsp;<img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=BIB-HACKER&&theme=tokyonight" alt="BIB-HACKER" /></p>
 
