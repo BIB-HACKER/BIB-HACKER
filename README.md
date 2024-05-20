@@ -1,5 +1,21 @@
 ![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
-<h1 align="center">Hello World 👋 I'm Bibhakar paul <img align="center" alt="Coding" width="100" src="https://github.com/doocs/advanced-java/blob/main/images/icon.png"></h1>
+<!-- <h1 align="center">Hello World 👋 I'm Bibhakar paul <img align="center" alt="Coding" width="100" src="https://github.com/doocs/advanced-java/blob/main/images/icon.png"></h1> -->
+
+<div align="center">
+
+<!--<img alt="VISITORS" src="https://komarev.com/ghpvc/?username=BIB-HACKER&style=flat&labelColor=red&logo=github&label=PROFILE+VIEWS&color=971901"/>
+<img alt="FOLLOWERS" src="https://img.shields.io/github/followers/BIB-HACKER?color=971901&logo=githubb&label=FOLLOWERS"/> -->
+
+<h1> Hello World! 👋 </h1>
+<img src="https://github.com/doocs/advanced-java/blob/main/images/icon.png" width="150">
+
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> I'm [Bibhakar Paul](https://www.linkedin.com/in/ndleah/) and welcome to my GitHub profile! :octocat:
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=21&duration=2000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=I'm+a+Data+Engineer%2C+;an+Open-source+Contributor;+and+a+Content+Creator!)](https://git.io/typing-svg)
+
+<img align="right" height="250" width="375" alt="GIF" src="IMG/quote.gif" />
+</div>
+<br>
 <h3 align="center">Electronics Engineer | Coder | Learner | Traveler</h3>
 <div align="center">
   <p>Welcome to my GitHub repository! Here's a glimpse of my skills and expertise:</p>
@@ -84,24 +100,6 @@ Coder.Technology()
 <p>&nbsp;<img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=BIB-HACKER&&theme=tokyonight" alt="BIB-HACKER" /></p>
 
 
-<!-- ### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-
-
-<!--
-**BIB-HACKER/BIB-HACKER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <br>
 
 # 🐍Snake Eating my Contributions
