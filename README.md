@@ -37,6 +37,7 @@
 
 
 <div align="left">
+  <a href="https://bib-hacker.github.io/Bibhakar.github.io/"><img src="https://img.shields.io/badge/Portfolio-FFCA1F?style=for-the-badge&logo=portfolio&logoColor=white"/></a><br>
   <a href="https://www.linkedin.com/in/bibhakar-paul-2595a721b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a><br>
   <a href="bibhakar660@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a><br>
   <a href="https://www.instagram.com/bibhakar_paul/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Sensei_Codes" ></a>
