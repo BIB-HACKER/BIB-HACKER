@@ -7,7 +7,7 @@
 <img alt="FOLLOWERS" src="https://img.shields.io/github/followers/BIB-HACKER?color=971901&logo=githubb&label=FOLLOWERS"/> -->
 
 <h1> Hello World! 👋 </h1>
-<img src="https://github.com/doocs/advanced-java/blob/main/images/icon.png" width="150">
+<!-- <img src="https://github.com/doocs/advanced-java/blob/main/images/icon.png" width="150"> -->
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> I'm [Bibhakar Paul](https://www.linkedin.com/in/ndleah/) and welcome to my GitHub profile! :octocat:
 
